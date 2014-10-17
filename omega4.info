@@ -1,0 +1,25 @@
+base theme = omega
+name = Omega4 
+description = This was made without drush.
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+
+; Styles
+stylesheets[all][] = css/omega4.normalize.css
+stylesheets[all][] = css/omega4.hacks.css
+stylesheets[all][] = css/omega4.styles.css
+stylesheets[all][] = css/omega4.no-query.css
+
+; Scripts
+scripts[] = js/omega4.behaviors.js
+
+; Regions
+regions[header] = Header
+regions[navigation] = Navigation
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+regions[sidebar_first] = First Sidebar
+regions[sidebar_second] = Second Sidebar
+regions[footer] = Footer
