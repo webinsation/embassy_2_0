@@ -4,4 +4,4 @@ We are redesigning EmbassyInstitute.org to be more user friendly and to work on 
 
 Technologies
 ------------
-Drupal 7, Omega 4, Sass, 
+Drupal 7, Omega 4, Sass, Gulp, Livereload
